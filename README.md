@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Nils
-- 🎓 I’m currently studying computer science with a focus on computational data science
 - 💞️ I love to focus on solving problems and believe design is a mindset – not a thing. 
 - 🎮 When I’m not working/learning I like to play retro games on different consoles (N64, GameCube, Gameboy and more), read about the financial market and listen to podcasts.
